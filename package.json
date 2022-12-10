@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "postcss": "^8.3.11",
+    "stylelint": "^14.0.1"
+  }
+}
