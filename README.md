@@ -1,2 +1,3 @@
-# Todo_List_App
- Simple todo app with database
+# Todo Tracker 
+- A Single Page Application backed by a PostgreSQL database (Ruby,
+Sinatra, ERB, SQL, Postgres)
